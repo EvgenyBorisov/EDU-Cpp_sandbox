@@ -1,0 +1,5 @@
+1) Готовим модули и Makefile
+2) Прописываем путь к make:
+PATH=%PATH%;C:\Qt\Tools\mingw482_32\bin
+3) Вызываем make:
+mingw32-make
